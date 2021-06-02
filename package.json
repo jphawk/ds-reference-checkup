@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-docz-netlifycms",
-  "author": "Colby Fayock <hello@colbyfayock.com>",
+  "name": "ds-reference-checkup",
+  "author": "jphawk",
   "version": "0.1.0",
-  "description": "Easily spin up a static documentation site with Docz and Netlify CMS",
+  "description": "Posti DS Reference Website checkup",
   "license": "MIT",
   "keywords": [
     "gatsby",
@@ -25,10 +25,5 @@
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
-  },
-  "homepage": "https://github.com/colbyfayock/gatsby-starter-docz-netlifycms",
-  "repository": "git@github.com:colbyfayock/gatsby-starter-docz-netlifycms.git",
-  "bugs": {
-    "url": "https://github.com/colbyfayock/gatsby-starter-docz-netlifycms/issues"
   }
 }
