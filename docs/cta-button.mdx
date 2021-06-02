@@ -3,12 +3,7 @@ name: CTA Button
 menu: ""
 route: /cta-button
 ---
-import {
-  LiveProvider,
-  LiveEditor,
-  LiveError,
-  LivePreview
-} from 'react-live'
+import { Playground } from 'docz'
 
 # CTA Button
 
@@ -30,17 +25,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Code 
 
-```html
-<div class="cta">
-  <h2>This is a call to action</h2>
-  <Button>Click here</Button>
-</div>
-```
-#### React Live Code 
-
-<LiveProvider code="<strong>Hello World!</strong>">
-  <LiveEditor />
-  <LiveError />
-  <LivePreview />
-</LiveProvider>
-
+<Playground>
+  <div class="cta">
+    <h2>This is a call to action</h2>
+  </div>
+</Playground>
